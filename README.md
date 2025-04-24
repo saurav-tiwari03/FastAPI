@@ -29,3 +29,6 @@ A simple FastAPI application that displays "Hello World" and provides a basic AP
 ## Usage
 
 Run the application with:
+   ```
+   python -m uvicorn main:app --reload
+   ```
